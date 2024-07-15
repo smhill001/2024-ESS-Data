@@ -1,1 +1,12 @@
-Steven Hill. (2024). smhill001/2024-ESS-data: v1.0 (1.0). Zenodo. https://doi.org/10.5281/zenodo.11100238
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Hill
+  given-names: Steven
+  orcid: "https://orcid.org/0000-0002-9314-0840"
+
+title: "2024-ESS-Data"
+version: 1.0.2
+doi: 10.5281/zenodo.1234
+date-released: 2024-07-15
+url: "https://github.com/smhill001/2024-ESS-Data"
